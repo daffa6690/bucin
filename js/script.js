@@ -7,7 +7,7 @@ function getNama(){
 
 function timeoutData() {
     setTimeout(function(){
-        window.location.href = "https://api.whatsapp.com";
-    },82000)
+        window.location.href = "https://youtu.be/o25_Tn8BnFM?si=BILmjworB-1DpNhw";
+    },130000)
 }
 
